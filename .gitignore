@@ -3,3 +3,7 @@ node_modules/
 out/
 .env
 .env.local
+
+# Original uncompressed videos
+public/videos/*-original.mp4
+screenshots/
